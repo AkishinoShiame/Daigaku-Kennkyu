@@ -12,14 +12,20 @@
 関係な動画
 ```
 第七組-動態節能省電的雲端系統研究 <br/>
-<a src="https://www.youtube.com/watch?v=fMZLlxU4f6Y"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" weight=300 height=70></img></a>
+<a href="https://www.youtube.com/watch?v=fMZLlxU4f6Y
+" target="_blank"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" 
+alt="第七組-動態節能省電的雲端系統研究" width=103 height=72 /></a>
 <br/>
 ===============<br/>
 <br/>
 低負載 <br/>
-<a src="https://www.youtube.com/watch?v=g9WdDoIiKCY"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" weight=300 height=70></img></a>
+<a href="https://www.youtube.com/watch?v=g9WdDoIiKCY
+" target="_blank"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" 
+alt="低負載" width=103 height=72 /></a>
 <br/>
 ===============<br/>
 <br/>
 高負載 <br/>
-<a src="https://www.youtube.com/watch?v=FQM3NnkwjBw"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" weight=300 height=70></img></a>
+<a href="https://www.youtube.com/watch?v=FQM3NnkwjBw
+" target="_blank"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" 
+alt="高負載" width=103 height=72 /></a>
