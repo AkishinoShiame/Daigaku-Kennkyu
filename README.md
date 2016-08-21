@@ -11,4 +11,15 @@
 ```
 関係な動画
 ```
-<iframe width="960" height="720" src="https://www.youtube.com/embed/fMZLlxU4f6Y?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
+第七組-動態節能省電的雲端系統研究 <br/>
+<a src="https://www.youtube.com/watch?v=fMZLlxU4f6Y"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" weight=300 height=70></img></a>
+<br/>
+===============<br/>
+<br/>
+低負載 <br/>
+<a src="https://www.youtube.com/watch?v=g9WdDoIiKCY"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" weight=300 height=70></img></a>
+<br/>
+===============<br/>
+<br/>
+高負載 <br/>
+<a src="https://www.youtube.com/watch?v=FQM3NnkwjBw"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" weight=300 height=70></img></a>
